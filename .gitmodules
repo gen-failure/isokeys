@@ -1,0 +1,6 @@
+[submodule "src/app/isokeys-component"]
+	path = src/app/isokeys-component
+	url = git@github.com:gen-failure/isokeys-component.git
+[submodule "src/isokeys-component"]
+	path = src/isokeys-component
+	url = git@github.com:gen-failure/isokeys-component.git
